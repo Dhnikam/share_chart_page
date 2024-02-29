@@ -1,0 +1,447 @@
+
+
+@media screen and (max-width: 1452px) {
+  body {
+    overflow-x: hidden;
+  }
+  body, html {
+    overflow-y: scroll;
+    position: fixed;
+    height: 100%;
+  }
+  body {
+   
+    width: 100%;
+    overflow-y: scroll;
+  }
+}
+
+@media screen and (max-width: 412px) {
+  body {
+    overflow-x: hidden;
+  }
+  body, html {
+    overflow-y: scroll;
+    position: fixed;
+    height: 100%;
+  }
+  body {
+   
+    width: 100%;
+    overflow-y: scroll;
+  }
+}
+
+
+
+
+
+
+
+
+
+ 
+  .B {
+    margin-top: 100px;
+    margin-left: 160px;
+  }
+  
+ 
+  
+  .X {
+    margin-left: 639px;
+    margin-bottom: -70px;
+  } 
+  
+  
+  .C {
+    margin-top: 60px;
+    margin-left: 330px;
+  }
+
+  
+ 
+  
+  .D {
+    margin-top: 40px;
+    margin-left: 320px;
+  }
+
+ 
+  
+  #chartContainer{
+  width: 100%;
+  max-width: 1300px;
+   height: 500px;
+   margin-top: 10px;
+   margin-left: auto;
+    margin-right: auto;
+  }
+
+  
+/* demet account1 css */
+
+.card {
+  box-shadow: 0 8px 8px -8px rgba(14, 2, 2, 0.1), 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: none;
+  width: 80%;
+  height: 300px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+}
+
+#vs {
+  margin-top: 120px;
+}
+
+.round-circle {
+  background-color: black;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vs-text {
+  color: white;
+  font-size: 20px;
+}
+
+.rating {
+  display: inline-block;
+  margin-top: -50px;
+}
+
+.star {
+  color: #FFD700;
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.bluestock-team {
+  margin-top: 40px; 
+ 
+  margin-left: 10px;
+
+}
+
+.container .bluestock-team .member {
+   color: blue; 
+   font-weight: bold;
+  font-size: 18px; 
+  font-family: 'poppins';
+  margin-bottom: 10px;
+} 
+.member1,.member2,.member3,.member4,.member5,.member6,.member7{ 
+  padding-top: 14px;
+}
+
+.bluestock-team,
+/* .container, */
+#vs,
+#card1,
+#card2,
+.up {
+  display: inline-block;
+  margin-left: 110px;
+  margin-bottom: -300px;
+  vertical-align: top;
+}
+
+#card1 img {
+  margin-top: 20px;
+  width: 50px;
+}
+
+#card2 img {
+  margin-top: 20px;
+  width: 50px;
+}
+
+#vs .round-circle {
+  margin-left: 80px;
+} 
+.container{ 
+  padding:5px; 
+  
+}
+.container a {
+  text-decoration: none;
+}
+
+
+
+#A {
+  margin-top: 370px;
+  margin-left: 200px;
+}
+
+
+
+.B {
+  margin-top: 100px;
+  margin-left: 155px;
+}
+
+.table-responsive {
+  margin-top: 25px;
+  margin-left: 240px;
+  width: 1050px;
+}
+
+.X {
+  margin-left: 639px;
+  margin-bottom: -70px;
+} 
+
+
+.C {
+  margin-top: 60px;
+  margin-left: 330px;
+}
+
+.below-cards {
+  height: 650px;
+
+  margin-left: 120px;
+}
+
+.below-cards #card2 {
+  margin-left: 290px;
+}
+
+#btn {
+  color: white;
+  background-color: #35d4b5;
+  width: 180px;
+  height: 40px;
+  border-radius: 7px;
+  margin-left: -10px;
+  border: none;
+  position: static;
+}
+
+#btns {
+  background-color: #35d4b5;
+  width: 200px;
+  margin-top: 20px;
+  margin-left: 60px;
+  border: none;
+}
+
+.D {
+  margin-top: 40px;
+  margin-left: 320px;
+} 
+#vs1{
+  display: none;
+}
+
+@media only screen and (max-width: 1452px) {
+  .navbar img { 
+    margin-top: 20px;
+    margin-left: 5px;
+    width: 150px; 
+    height: 100%; 
+  }
+
+  .navbar .icon {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: -250px; 
+  }
+
+  .container {
+    margin-left: 10px;
+  }
+
+  #card1, #card2 {
+    width: 193px; 
+    height: 275px;
+    margin-top: 23px;
+    box-shadow: 0 4px 8px rgba(18, 16, 16, 0.388);
+  }
+
+  #card1 {
+    margin-left: 230px;
+  }
+
+  #card2 {
+    margin-left: 280px;
+  }
+
+  #card1 img, #card2 img {
+    width: 89px;
+    margin-top: 4px;
+  }
+
+  #card1 .card-title33, #card2 .card-title34 {
+    font-size: 18px;
+    font-family: 'Poppins';
+    margin-left: -12px;
+    margin-top: -17px;
+  }
+
+  #card1 .star, #card2 .star {
+    color: #FFD700;
+    margin-left: -10px;
+    padding: 5px;
+    align-items: center;
+  }
+
+  #no1, #no2 {
+    font-size: 35px;
+    font-family: 'poppins';
+    font-weight: bold;
+    margin-left: -22px;
+    margin-top: 14px;
+  }
+
+  #btn {
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    background-color: #35d4b5;
+    width: 130px;
+    height: 40px;
+    border-radius: 7px;
+    border: none;
+    position: static;
+    margin-top: 8px;
+    margin-left: -10px;
+  }
+
+  #vs {
+    position: relative;
+    left: 90px;
+    top: 23px;
+  }
+
+  
+  .bluestock-team {
+    margin-left: 200px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .bluestock-team {
+    display: none;
+    margin-top: 40px;
+    margin-left: 10px;
+  }
+
+  #card1, #card2 {
+    width: 150px;
+    height: 200px;
+    margin-left: 30px;
+  }
+
+  #card1 {
+    margin-left: 0;
+  }
+
+  #card1 img, #card2 img {
+    width: 70px;
+    margin-top: 4px;
+  }
+
+  #no1, #no2 {
+    font-size: 25px;
+    margin-left: -15px;
+    margin-top: 10px;
+  }
+
+  #vs {
+    left: 50px;
+    top: 15px;
+  }
+}
+
+@media only screen and (max-width: 412px) {
+  .navbar img {
+    width: 120px;
+  }
+
+  .navbar .icon {
+    margin-left: -150px;
+  }
+
+  .container {
+    margin-left: 5px;
+  }
+
+  #card1  {
+    width: 160px;
+    height: 230px;
+    margin-left: -110px;
+  }
+  #card2 {
+    width: 160px;
+    height: 230px;
+    margin-top: -1px;
+    margin-left: 110px;
+  }
+   #card1 .rating span{  
+    font-size:15px;
+
+   } .rating span{ 
+    font-size: 15px;
+   }
+   #card2 
+  #card1 img, #card2 img {
+    width: 50px;
+  }
+
+  #card1 .card-title33, #card2 .card-title34 {
+    font-size: 14px;
+  } 
+  #card1 .card-title33{ 
+    margin-top: -25px;
+  }
+
+  #no1, #no2 {
+    font-size: 20px;
+    margin-left: -10px;
+    margin-top: 5px;
+  }
+
+  #btn {
+    font-size: 12px;
+    width: 120px;
+    height: 40px;
+    margin-left: -5px;
+  }
+
+  #vs {
+    position: absolute;
+    left: 50%;
+    margin-left: 97px;
+    transform: translateX(-50%);
+    top: 10px;
+  }
+  
+  .round-circle {
+    margin-top: 120px;
+    margin-left: 10px;
+    width: 40px; /* Example minimum width */
+    height: 40px; /* Example minimum height */
+    border-radius: 50%; /* Ensures it's a circle */
+    background-color: #111010; /* Example background color */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .vs-text {
+    font-size: 18px; /* Example text size */
+  } 
+  .card2 #btn{ 
+    margin-top: 12px;
+  }
+}
+
+  
+ 
